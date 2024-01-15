@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project aims to analyse the data provided by Apple in their Environmental Progress Report to visualize their progression towards becoming carbon neutral in 203
+This project aims to analyse the data provided by Apple in their Environmental Progress Report to visualize their progression towards becoming carbon neutral in 2030
 
 ## Problem Statement
 Apple unveiled its plan to become carbon neutral across its entire business, manufacturing supply chain, and product life cycle by 2030. Implying every Apple device sold will have net zero climate impact.
